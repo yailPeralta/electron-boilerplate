@@ -17,6 +17,7 @@ Then type few commands known to every Node developer...
 git clone https://github.com/yailPeralta/electron-boilerplate.git
 cd electron-boilerplate
 npm install
+jspm install
 npm start
 ```
 ... and boom! You have running desktop application on your screen.
