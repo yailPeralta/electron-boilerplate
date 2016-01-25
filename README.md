@@ -14,7 +14,7 @@ By the way, there is a twin project to this one: [nw-boilerplate](https://github
 The only development dependency of this project is [Node.js](https://nodejs.org). So just make sure you have it installed.
 Then type few commands known to every Node developer...
 ```
-git clone https://github.com/szwacz/electron-boilerplate.git
+git clone https://github.com/yailPeralta/electron-boilerplate.git
 cd electron-boilerplate
 npm install
 npm start
